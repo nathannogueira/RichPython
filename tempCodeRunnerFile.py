@@ -1,1 +1,0 @@
-status.update(f'Processando tarefa {tarefa}...')
